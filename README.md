@@ -12,3 +12,6 @@ Hi there 👋
 - ⚡ Fun fact: ..
 
 
+  <h1 align='center'>Technical Skills</h1>
+  
+
