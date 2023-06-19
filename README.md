@@ -7,5 +7,5 @@ Hi there 👋
 - 📫 How to reach me: yigitdemir4721@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
-<img width='150px' display='flex-end' src='https://www.interviewbit.com/blog/wp-content/uploads/2021/06/What-is-Full-Stack-Developer.png' >
+<img width='150px' display='flex' justifyContent='right' src='https://www.interviewbit.com/blog/wp-content/uploads/2021/06/What-is-Full-Stack-Developer.png' >
 
