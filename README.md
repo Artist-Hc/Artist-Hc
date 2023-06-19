@@ -13,5 +13,9 @@ Hi there 👋
 
 
   <h1 align='center'>Technical Skills</h1>
+  <h3>React</h3>
+  <h3>Javascript</h3>
+  <h3>Css</h3>
+  <h3>Html</h3>
   
 
