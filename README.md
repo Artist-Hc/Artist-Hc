@@ -7,10 +7,11 @@ Hi there 👋
 - 📫 How to reach me: yigitdemir4721@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
-
-   ![A test image](https://www.interviewbit.com/blog/wp-content/uploads/2021/06/What-is-Full-Stack-Developer.png)
 <style>
-  body {
-    width: 50px;
-  }
+img {
+  width: 100px;
+  height: 100px;
+}
 </style>
+   ![A test image](https://www.interviewbit.com/blog/wp-content/uploads/2021/06/What-is-Full-Stack-Developer.png)
+
