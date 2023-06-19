@@ -9,5 +9,5 @@ Hi there 👋
 - 📫 How to reach me: yigitdemir4721@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
-<img width='150px' class='flex-container' src='https://www.interviewbit.com/blog/wp-content/uploads/2021/06/What-is-Full-Stack-Developer.png' >
+<img width='150px' align='right' src='https://www.interviewbit.com/blog/wp-content/uploads/2021/06/What-is-Full-Stack-Developer.png' >
 
