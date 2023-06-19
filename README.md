@@ -13,9 +13,9 @@ Hi there 👋
 
 
   <h1 align='center'>Technical Skills</h1>
-  <h3 color='red' align='center'>React</h3>
-  <h3 color='red' align='center'>Javascript</h3>
-  <h3 color='red' align='center'>Css</h3>
-  <h3 color='red' align='center'>Html</h3>
+  <h3 backGround='red' align='center'>React</h3>
+  <h3  align='center'>Javascript</h3>
+  <h3 align='center'>Css</h3>
+  <h3  align='center'>Html</h3>
   
 
